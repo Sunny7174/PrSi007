@@ -56,5 +56,3 @@ I am a B-Tech CSE graduate and an aspiring Software Developer.
     </a>
 </p>
 
-
---- Made with ❤️ and JavaScript .
